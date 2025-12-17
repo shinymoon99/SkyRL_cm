@@ -45,3 +45,10 @@ docs/_spelling/
 
 # uv lock files
 uv.lock
+
+# others
+Qwen3-4B
+Qwen3-32B
+dataset
+skyrl-agent/ray_tmp
+.env
